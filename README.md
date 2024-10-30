@@ -1,1 +1,1 @@
-https://JUSTNOFEAR.github.io/rsschool-cv/cv
+https://github.com/JUSTNOFEAR/rsschool-cv/blob/gh-pages/cv.md
