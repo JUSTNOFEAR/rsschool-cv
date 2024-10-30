@@ -8,13 +8,13 @@ I am learning in highschool(10th grade) and in English school(United languahe sc
 
 What about my strengths, I think that I am good in Math, Physics and Informatics.
 
-My skills:
+### My skills:
 
     * English(B1)
     * css and html
     * in the past I learned python
 
-Code example:
+### Code example:
 
     ```javascript
 
