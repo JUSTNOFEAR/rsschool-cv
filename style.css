@@ -17,9 +17,11 @@ footer{
 }
 
 .body{
+    height: 690px;
     background-color: lightgrey;
     display: flex;
     flex-direction: row;
+    align-items: center;
     justify-content: center;
 }
 
@@ -39,12 +41,15 @@ footer{
 
 .header1{
     font-family: 'Arial';
+    font-size: xx-large;
 }
 
 .header2{
     font-family: 'Arial';
+    font-size: x-large;
 }
 
-.txt_settings{
+.txt_settings, .par_settings{
     font-family: 'Arial';
+    font-size: large;
 }
