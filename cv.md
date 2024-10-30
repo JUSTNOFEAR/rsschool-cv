@@ -10,17 +10,17 @@ What about my strengths, I think that I am good in Math, Physics and Informatics
 
 ### My skills:
 
-    * English(B1)
-    * css and html
-    * in the past I learned python
+* English(B1)
+* css and html
+* in the past I learned python
 
 ### Code example:
 
-    ```javascript
+```javascript
 
-        function multiply(a, b){
-        return a * b
-        }
+function multiply(a, b){
+return a * b
+}
 
-    ```
+```
 
